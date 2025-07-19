@@ -1,17 +1,18 @@
-SUBJECT = "PYTHON DEVELOPER || Devendra Lodhi || 5+ Years"
+SUBJECT = "Test Subject"
 BODY = """Hello,
 
-I came across your job posting for a Python Developer role on LinkedIn and wanted to express my strong interest in the position.
+This is a test script to send emails using Python. The script reads email addresses from an Excel sheet — the first column should contain the email IDs.
 
-With 5 years of experience in Python development, I bring solid expertise in building scalable backend systems, cloud integration, and API development. My tech stack includes Python, Django, Flask, FastAPI, DRF, MySQL, PostgreSQL, HTML, CSS, JavaScript, Docker, CI/CD pipelines, unit testing, Agile methodology, and extensive hands-on experience with AWS Cloud services (EC2, S3, Lambda, RDS, etc.).
+Refer to the `README.md` for detailed instructions on how to run the script.
 
-I have attached my resume for your review. I would greatly appreciate it if you could consider me for any open Python-related roles or refer me if there's a suitable opportunity.
+This is just a sample email body for testing purposes.
 
-Please feel free to reach out if you need any more information. I look forward to hearing from you.
+Regards,  
+Mail Automation Script
 
 Best regards,
 Devendra Lodhi
 📞 9617128605"""
 
-ATTACHMENT = "files/Devendra-lodhi-python-developer-5-years.pdf"
-EMAIL_FILE = "files/python-job-emails.xlsx"
+ATTACHMENT = "Attachment/path"
+EMAIL_FILE = "path-of-excel-sheet-which has emails"
