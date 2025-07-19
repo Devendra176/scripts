@@ -1,24 +1,17 @@
-SUBJECT = "PYTHON DEVELOPER || Devendra Lodhi || 3+ Years"
+SUBJECT = "PYTHON DEVELOPER || Devendra Lodhi || 5+ Years"
 BODY = """Hello,
-I came across your job post regarding Python Developer job open position from LinkedIn.
 
+I came across your job posting for a Python Developer role on LinkedIn and wanted to express my strong interest in the position.
 
-I am writing to express my strong interest in the Python job role. With my experience in Python. I am confident that I would make a valuable addition to your team and your company.
+With 5 years of experience in Python development, I bring solid expertise in building scalable backend systems, cloud integration, and API development. My tech stack includes Python, Django, Flask, FastAPI, DRF, MySQL, PostgreSQL, HTML, CSS, JavaScript, Docker, CI/CD pipelines, unit testing, Agile methodology, and extensive hands-on experience with AWS Cloud services (EC2, S3, Lambda, RDS, etc.).
 
-Skills stack - Python, Django, Flask, DRF, MySQL, HTML and CSS, JavaScript, Docker, AWS.
+I have attached my resume for your review. I would greatly appreciate it if you could consider me for any open Python-related roles or refer me if there's a suitable opportunity.
 
-So, I am attaching my resume for any open position on Python with a total 3+ years of experience in the IT Industry.
+Please feel free to reach out if you need any more information. I look forward to hearing from you.
 
-
-Please refer me or consider me for the Python job position and let me know if any position is open or you have any questions. I look forward to hearing from you.
-
-
-
-Thanks & regards 
-
+Best regards,
 Devendra Lodhi
+📞 9617128605"""
 
-9617128605"""
-
-ATTACHMENT = "files/Devendra-lodhi-python-developer-resume.pdf"
-EMAIL_FILE = "files/python_job_email_Ids.xlsx"
+ATTACHMENT = "files/Devendra-lodhi-python-developer-5-years.pdf"
+EMAIL_FILE = "files/python-job-emails.xlsx"
